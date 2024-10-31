@@ -1,0 +1,21 @@
+.salat-table {
+ border-bottom:1px solid;
+ 
+}
+
+.salat-table th {
+ padding:5px;
+ font-weight:bold;
+ border-top:1px solid;
+ border-bottom:1px solid;
+}
+
+.salat-table td {
+ padding:3px;
+ 
+}
+
+
+.salat-table .right {
+
+}
